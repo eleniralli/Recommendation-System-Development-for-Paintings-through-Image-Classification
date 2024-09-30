@@ -26,7 +26,9 @@ In this part, each of the 400 selected image titles is mapped to its correspondi
  
 Part 2:
 The development of the multi-output classification model and recommendation system will be implemented in Part 2, utilizing various architectures to enhance predictive capabilities and suggest artworks to users effectively.
- 
+
+The weights of the best epoch are from epoch 47. If you prefer not to use all the weights, you can use only them.
+
 Authors:
 Papadimitriou Anna, Registration number: f2822311
 Ralli Eleni, Registration number: f2822312
